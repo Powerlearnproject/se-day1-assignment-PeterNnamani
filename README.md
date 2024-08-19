@@ -56,7 +56,7 @@ Acceptance test : testing the degree by which the software meets users needs
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-it involves the process of structuring an instruction that can be i terpreted and understood by AI
+it involves the process of structuring an instruction that can be interpreted and understood by AI
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
